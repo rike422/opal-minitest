@@ -18,8 +18,8 @@ Gem::Specification.new do |s|
 
   s.require_paths = ['lib']
 
-  s.add_dependency 'opal', '>= 0.8'
-  s.add_dependency 'rake', '~> 10'
-  s.add_development_dependency 'minitest', '5.3.4'
+  s.add_dependency 'opal', '>= 0.9'
+  s.add_dependency 'rake', '~> 11'
+  s.add_development_dependency 'minitest', '5.8.4'
 end
 
